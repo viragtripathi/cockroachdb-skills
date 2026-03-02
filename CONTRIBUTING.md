@@ -351,10 +351,10 @@ Getting started with CockroachDB and moving workloads into the system.
 - PostgreSQL compatibility handling
 
 ### 2. **Query and Schema Design**
-Designing schema and writing queries that are compliant to CockroachDB SQL dialect and follow CockroachDB best practices
-- Schema Design
-- Generating Queries 
-- Optimizing Queries
+Designing schema and writing queries that are compliant to CockroachDB SQL dialect and follow CockroachDB best practices.
+- Schema design
+- Generating queries 
+- Optimizing queries
 
 ### 3. **Application Development**
 Building applications that use CockroachDB effectively.
