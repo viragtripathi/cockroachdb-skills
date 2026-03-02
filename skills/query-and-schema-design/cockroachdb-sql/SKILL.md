@@ -9,7 +9,7 @@ metadata:
 
 ## CockroachDB SQL Skill  
 
-This skill converts natural language questions into CockroachDB-compliant SQL queries, following CockroachDB best practices. Use it for schema design, writing queries and optimizing query.
+Converts natural language questions into CockroachDB-compliant SQL queries, following CockroachDB best practices. Use it for schema design, writing queries and optimizing query.
 
 ## When to Use This Skill
 
