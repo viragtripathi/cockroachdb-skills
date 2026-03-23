@@ -10,18 +10,15 @@ A curated collection of **Agent Skills** for CockroachDB—structured, machine-e
 
 ## For Users
 
-**Want to use these skills with Claude Code?**
+**Want to use these skills with your AI agent?**
 
 → [Installation Guide](docs/installation.md) - Get started in 5 minutes
 → [Usage Guide](docs/usage.md) - Discover and invoke skills
 
 **Quick Start:**
 ```bash
-# Clone and symlink to Claude Code
-git clone https://github.com/cockroachlabs/cockroachdb-skills.git
-cd your-project
-mkdir -p .claude/skills
-ln -s /path/to/cockroachdb-skills/skills .claude/skills/cockroachdb-skills
+# One-line installation (works with Claude Code, Cursor, Windsurf, and 40+ agents)
+npx skills add cockroachlabs/cockroachdb-skills
 ```
 
 **What you can do:**
