@@ -6,6 +6,38 @@
 
 A curated collection of **Agent Skills** for CockroachDB—structured, machine-executable capabilities that encode CockroachDB expertise. This repository enables AI agents, automation systems, and developer tools to deliver contextually aware, production-grade CockroachDB operations.
 
+---
+
+## For Users
+
+**Want to use these skills with Claude Code?**
+
+→ [Installation Guide](docs/installation.md) - Get started in 5 minutes
+→ [Usage Guide](docs/usage.md) - Discover and invoke skills
+
+**Quick Start:**
+```bash
+# Clone and symlink to Claude Code
+git clone https://github.com/cockroachlabs/cockroachdb-skills.git
+cd your-project
+mkdir -p .claude/skills
+ln -s /path/to/cockroachdb-skills/skills .claude/skills/cockroachdb-skills
+```
+
+**What you can do:**
+- Get expert guidance on CockroachDB operations
+- Diagnose cluster health and performance issues
+- Plan migrations from PostgreSQL
+- Configure security and compliance features
+- Optimize query performance
+- ...and 29+ other operational tasks
+
+[See complete skill list](skills/)
+
+---
+
+## For Contributors
+
 ## What Is a CockroachDB Skill?
 
 A **CockroachDB Skill** is a structured capability that:
